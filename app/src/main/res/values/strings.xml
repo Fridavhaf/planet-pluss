@@ -1,0 +1,94 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Planet Pluss</string>
+
+    <!-- HomeScreen buttons -->
+    <string name="welcome">Velkommen til</string>
+    <string name="start_game">Start spill!</string>
+    <string name="about_game">Om spillet</string>
+    <string name="preferences">Preferanser</string>
+
+    <!-- About the Game -->
+    <string name="about_game_description">I dette spillet lærer du å legge sammen tall med morsomme og tilfeldige oppgaver. Du kan velge hvor mange spørsmål du vil prøve hver runde.</string>
+
+    <!-- Gaming Mode -->
+    <string name="submit">Svar!</string>
+    <string name="delete">Slett</string>
+    <string name="question_progress">Spørsmål %1$d av %2$d</string>
+
+    <!-- Preferences -->
+    <string name="num_questions_label">Velg antall spørsmål</string>
+    <string name="num_questions_5" translatable="false">5</string>
+    <string name="num_questions_10" translatable="false">10</string>
+    <string name="num_questions_15" translatable="false">15</string>
+
+
+
+    <!-- Feedback dialog after each answer -->
+    <string name="correct_answer_title">Riktig!</string>
+    <string name="wrong_answer_title">Feil</string>
+    <string name="correct_feedback">%1$s %2$d.\nFortsett sånn!</string>
+    <string name="wrong_feedback">%2$s %3$d.\nDu svarte %1$s.\nDu klarer det neste gang!</string>
+
+
+    <!-- Navigation-->
+    <string name="next_button">Neste</string>
+    <string name="back_button">Tilbake</string>
+
+    <!-- Feedback dialog at end of game -->
+    <string name="finished_game_neutral">Spillet er ferdig</string>
+    <string name="finished_game_congrats">Gratulerer!</string>
+    <string name="feedback_message">Du fikk %1$d av %2$d riktige!</string>
+    <string name="play_again">Spill igjen</string>
+
+    <!-- Exit game dialog -->
+    <string name="exit_game_title">Avslutt</string>
+    <string name="exit_game_text">Er du sikker på at du vil avslutte spillet?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nei</string>
+
+
+    <!-- Questions -->
+    <string-array name="questions">
+        <item>0 + 4 =</item>
+        <item>1 + 5 =</item>
+        <item>2 + 1 =</item>
+        <item>3 + 3 =</item>
+
+        <item>4 + 1 =</item>
+        <item>5 + 6 =</item>
+        <item>6 + 7 =</item>
+        <item>7 + 5 =</item>
+
+        <item>8 + 0 =</item>
+        <item>9 + 5 =</item>
+        <item>1 + 8 =</item>
+        <item>1 + 9 =</item>
+
+        <item>2 + 6 =</item>
+        <item>3 + 4 =</item>
+        <item>1 + 1 =</item>
+    </string-array>
+
+    <!-- Answers -->
+    <string-array name="answers">
+        <item>4</item>
+        <item>6</item>
+        <item>3</item>
+        <item>6</item>
+
+        <item>5</item>
+        <item>11</item>
+        <item>13</item>
+        <item>12</item>
+
+        <item>8</item>
+        <item>14</item>
+        <item>9</item>
+        <item>10</item>
+
+        <item>8</item>
+        <item>7</item>
+        <item>2</item>
+    </string-array>
+</resources>
