@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Planet Pluss</string>
+    <string name="welcome">Willkommen bei</string>
+    <string name="start_game">Spiel starten!</string>
+    <string name="about_game">Über das Spiel</string>
+    <string name="preferences">Einstellungen</string>
+    <string name="about_game_description">In diesem Spiel lernst du, Zahlen mit lustigen und zufälligen Aufgaben zu addieren. Du kannst wählen, wie viele Fragen du in jeder Runde ausprobieren möchtest.</string>
+    <string name="submit">Antworten!</string>
+    <string name="delete">Löschen</string>
+    <string name="question_progress">Frage %1$d von %2$d</string>
+    <string name="num_questions_label">Wähle die Anzahl der Fragen</string>
+    <string name="correct_answer_title">Richtig!</string>
+    <string name="wrong_answer_title">Falsch</string>
+    <string name="next_button">Weiter</string>
+    <string name="back_button">Zurück</string>
+    <string name="finished_game_neutral">Das Spiel ist beendet</string>
+    <string name="finished_game_congrats">Herzlichen Glückwunsch!</string>
+    <string name="feedback_message">Du hast %1$d von %2$d richtig!</string>
+    <string name="play_again">Nochmal spiele</string>
+    <string name="exit_game_title">Beenden</string>
+    <string name="exit_game_text">Bist du sicher, dass du das Spiel beenden möchtest?</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+    <string name="correct_feedback">%1$s %2$d.\nWeiter so!</string>
+    <string name="wrong_feedback">%2$s %3$d.\nDu hast %1$s geantwortet.\nDu schaffst es beim nächsten Mal!</string>
+</resources>
