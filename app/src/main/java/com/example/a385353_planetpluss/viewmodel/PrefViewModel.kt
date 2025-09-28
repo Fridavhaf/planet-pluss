@@ -17,23 +17,16 @@ class PrefViewModel(application: Application) : AndroidViewModel(application) {
 
     // Key used to store the number of questions preference
     private val keyNumQuestions = "num_questions"
-
-
-    /** Save number of questions to SharedPreferences */
     fun saveNumQuestions(value: Int) {
         val sharedPreferences = getApplication<Application>()
             .getSharedPreferences(prefsName, Application.MODE_PRIVATE)
-
         sharedPreferences.edit {
             putInt(keyNumQuestions, value)
         }
     }
-
-    /** Load number of questions from SharedPreferences, default 5 */
     fun getNumQuestions(): Int {
         val sharedPreferences = getApplication<Application>()
             .getSharedPreferences(prefsName, Application.MODE_PRIVATE)
-
         return sharedPreferences.getInt(keyNumQuestions, 5)
     }
 }

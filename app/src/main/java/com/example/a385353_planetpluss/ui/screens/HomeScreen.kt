@@ -74,7 +74,7 @@ fun HomeScreen(navController: NavController, modifier: Modifier = Modifier) {
         Text(
             text = stringResource(R.string.app_name),
             fontSize = 35.sp,
-            color = White
+            color = Yellow
         )
 
         Spacer(modifier = Modifier.height(35.dp))
