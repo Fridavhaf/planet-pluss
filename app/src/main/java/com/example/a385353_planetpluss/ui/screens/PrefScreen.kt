@@ -1,6 +1,5 @@
 package com.example.a385353_planetpluss.ui.screens
 
-import android.annotation.SuppressLint
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
