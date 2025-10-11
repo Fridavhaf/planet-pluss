@@ -20,7 +20,6 @@ Enkelte deler av implementasjonen kan derfor være forenklet eller mangle videre
 - Laget med Jetpack Compose for et dynamisk og reaktivt brukergrensesnitt
 - Eget design inspirert av verdensrom og læring
 
----
 
 ## Arkitektur
 
@@ -30,7 +29,6 @@ Appen er bygget med en klar separasjon mellom:
 
 Denne arkitekturen gjør appen stabil og enkel å vedlikeholde, selv ved livssyklusendringer som skjermrotasjon.
 
----
 
 ## Skjermbilder
 
