@@ -47,7 +47,6 @@ Denne arkitekturen gjør appen stabil og enkel å vedlikeholde, selv ved livssyk
 <br>
 
 ### Preferanser
-<br>
 <img src="images/preferences.png" alt="Preferanser" width="200"/>
 
 
