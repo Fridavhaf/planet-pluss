@@ -36,6 +36,7 @@ Denne arkitekturen gjør appen stabil og enkel å vedlikeholde, selv ved livssyk
 <img src="images/home.png" alt="Hjemskjerm" width="200"/>
 
 <br>
+
 ### Spillskjerm
 <p float="left">
   <img src="images/game1.png" alt="Spillskjerm" width="200" style="margin-right: 25px;"/>
@@ -44,6 +45,7 @@ Denne arkitekturen gjør appen stabil og enkel å vedlikeholde, selv ved livssyk
 </p>
 
 <br>
+
 ### Preferanser
 <br>
 <img src="images/preferences.png" alt="Preferanser" width="200"/>
