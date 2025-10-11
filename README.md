@@ -40,8 +40,8 @@ Denne arkitekturen gjør appen stabil og enkel å vedlikeholde, selv ved livssyk
 ### Spillskjerm
 <br>
 <p float="left">
-  <img src="images/game1.png" alt="Spillskjerm" width="200" style="margin-right: 15px;"/>
-  <img src="images/game2.png" alt="Spillskjerm" width="200" style="margin-right: 15px;"/>
+  <img src="images/game1.png" alt="Spillskjerm" width="200" style="margin-right: 25px;"/>
+  <img src="images/game2.png" alt="Spillskjerm" width="200" style="margin-right: 25px;"/>
   <img src="images/game3.png" alt="Spillskjerm" width="200"/>
 </p>
 
