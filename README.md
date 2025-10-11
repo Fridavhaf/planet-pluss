@@ -6,19 +6,9 @@ Brukeren får tilfeldige regnestykker og svarer via et talltastatur. Appen tilby
 Begrunnelser for valg av teknologi, struktur og design finnes i `rapport.pdf` under `res/raw`.  
 Appen utgjør én av tre innleveringer i mappeeksamen i emnet DATA3600 Apputvikling ved OsloMet.
 
-
----
-
-## Om prosjektet
-
-Dette prosjektet er utviklet som en del av et læringsforløp i Android-utvikling.  
+Prosjektet er utviklet som en del av et læringsforløp i Android-utvikling.  
 Enkelte deler av implementasjonen kan derfor være forenklet eller mangle videre optimalisering.  
-Fokuset har vært å forstå og demonstrere sentrale prinsipper som:
-- separasjon mellom UI og ViewModel,
-- håndtering av state i Jetpack Compose,
-- og brukeropplevelse tilpasset barn.
 
----
 
 ## Funksjoner
 
@@ -45,12 +35,16 @@ Denne arkitekturen gjør appen stabil og enkel å vedlikeholde, selv ved livssyk
 ## Skjermbilder
 
 ### Hjem-skjerm
-![Hjemskjerm](images/home.png)
+<img src="images/home.png" alt="Hjemskjerm" width="300"/>
 
 ### Spillskjerm
-![Spillskjerm](images/game1.png)
-![Spillskjerm](images/game1.png)
-![Spillskjerm](images/game3.png)
+<p float="left">
+  <img src="images/game1.png" alt="Spillskjerm" width="300"/>
+  <img src="images/game2.png" alt="Spillskjerm" width="300"/>
+  <img src="images/game3.png" alt="Spillskjerm" width="300"/>
+</p>
 
 ### Preferanser
-![Preferanser](images/preferences.png)
+<img src="images/preferences.png" alt="Preferanser" width="300"/>
+
+
