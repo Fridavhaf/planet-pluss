@@ -33,19 +33,17 @@ Denne arkitekturen gjør appen stabil og enkel å vedlikeholde, selv ved livssyk
 ## Skjermbilder
 
 ### Hjem-skjerm
-<br>
 <img src="images/home.png" alt="Hjemskjerm" width="200"/>
 
-<br><br>
-### Spillskjerm
 <br>
+### Spillskjerm
 <p float="left">
   <img src="images/game1.png" alt="Spillskjerm" width="200" style="margin-right: 25px;"/>
   <img src="images/game2.png" alt="Spillskjerm" width="200" style="margin-right: 25px;"/>
   <img src="images/game3.png" alt="Spillskjerm" width="200"/>
 </p>
 
-<br><br>
+<br>
 ### Preferanser
 <br>
 <img src="images/preferences.png" alt="Preferanser" width="200"/>
