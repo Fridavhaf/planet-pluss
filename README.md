@@ -7,19 +7,13 @@ Begrunnelser for valg av teknologi, struktur og design finnes i `rapport.pdf` un
 Appen utgjør én av tre innleveringer i mappeeksamen i emnet DATA3600 Apputvikling ved OsloMet.
 
 Prosjektet er utviklet som en del av et læringsforløp i Android-utvikling.  
-Enkelte deler av implementasjonen kan derfor være forenklet eller mangle videre optimalisering.  
+Enkelte deler av implementasjonen kan derfor være forenklet, av eldre praksis og inneholde feil.
 
-
-## Funksjoner
+## Features
 
 - Velg mellom 5, 10 eller 15 spørsmål per runde
 - Tilfeldige regnestykker der ingen spørsmål gjentas i samme runde
 - Støtte for norsk og tysk (avhenger av enhetens språkinnstilling)
-- Brukerens innstillinger lagres med SharedPreferences
-- ViewModel sørger for stabil state-håndtering ved skjermrotasjon
-- Laget med Jetpack Compose for et dynamisk og reaktivt brukergrensesnitt
-- Eget design inspirert av verdensrom og læring
-
 
 ## Arkitektur
 
